@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aluramateus
+- 👀 I’m interested in  Scratch
+- 🌱 I’m currently learning  Scratch e  JavaScript
+- 💞️ I’m looking to collaborate em  programação conhecer mais
+- 📫 How to reach me matetus.jose.lima@escola.pr.gov.br 
